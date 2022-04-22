@@ -1,16 +1,15 @@
 ### Hi there 👋
 
+- 🐰 An ordinary Java and Golang engineer.
+- 🐻 Focus on Spring boot, Linux and Iot.
 <!--
-**te3030/te3030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🐨 Visit my blog  [github.icu](https://github.icu).
 -->
+- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=te3030)
+
+<a href="https://github.com/te3030?tab=repositories">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=te3030&theme=tokyonight&show_icons=true" width="49%" />
+    <img aligh="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=te3030&layout=compact&theme=tokyonight" width="41%" />
+</a>
+
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=te3030&layout=compact&theme=tokyonight&show_icons=true" width="49%"/>
