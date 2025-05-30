@@ -13,3 +13,5 @@
 </a>
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=te3030&layout=compact&theme=tokyonight&show_icons=true" width="49%"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=javascript,html,TypeScript,css,glsl,astro,Makefile)](https://github.com/anuraghazra/github-readme-stats)
