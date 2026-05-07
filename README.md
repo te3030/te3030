@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🐰 An ordinary Java and Golang engineer.
-- 🐻 Focus on Spring boot, Linux and Iot.
-<!--
-- 🐨 Visit my blog  [github.icu](https://github.icu).
--->
+- 🐰 Dedicated Java and Go Developer.
+- 🐰 踏实的 Java 与 Golang 开发者。
+- 🐻 Expertise in Spring Boot, Linux, and IoT ecosystems.
+- 🐻 专精于 Spring Boot、Linux 及物联网生态。
+
 - ![visitors](https://visitor-badge.laobi.icu/badge?page_id=te3030)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=javascript,html,TypeScript,css,glsl,astro,Makefile)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](profile/stats.svg)
